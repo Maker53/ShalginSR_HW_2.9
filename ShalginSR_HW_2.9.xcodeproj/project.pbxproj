@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		32D4DF634ABAFB004B0A79D5 /* Pods_ShalginSR_HW_2_9.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89C0B063286BB7BACD3AC9C3 /* Pods_ShalginSR_HW_2_9.framework */; };
-		85D4C52D274DFDAD00BE3256 /* AnimationParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D4C52C274DFDAD00BE3256 /* AnimationParameters.swift */; };
+		85D4C52D274DFDAD00BE3256 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D4C52C274DFDAD00BE3256 /* Animation.swift */; };
 		85D4C530274E011000BE3256 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D4C52F274E011000BE3256 /* DataManager.swift */; };
 		85E19B8E274DF59100F5D44D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E19B8D274DF59100F5D44D /* AppDelegate.swift */; };
 		85E19B90274DF59100F5D44D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E19B8F274DF59100F5D44D /* SceneDelegate.swift */; };
@@ -20,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		048AA3BB37F8F76E21028F60 /* Pods-ShalginSR_HW_2.9.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShalginSR_HW_2.9.debug.xcconfig"; path = "Target Support Files/Pods-ShalginSR_HW_2.9/Pods-ShalginSR_HW_2.9.debug.xcconfig"; sourceTree = "<group>"; };
-		85D4C52C274DFDAD00BE3256 /* AnimationParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationParameters.swift; sourceTree = "<group>"; };
+		85D4C52C274DFDAD00BE3256 /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
 		85D4C52F274E011000BE3256 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		85E19B8A274DF59000F5D44D /* ShalginSR_HW_2.9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShalginSR_HW_2.9.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85E19B8D274DF59100F5D44D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -101,7 +101,7 @@
 		85D4C52B274DFD9C00BE3256 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				85D4C52C274DFDAD00BE3256 /* AnimationParameters.swift */,
+				85D4C52C274DFDAD00BE3256 /* Animation.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -262,7 +262,7 @@
 			files = (
 				85E19B92274DF59100F5D44D /* MainViewController.swift in Sources */,
 				85D4C530274E011000BE3256 /* DataManager.swift in Sources */,
-				85D4C52D274DFDAD00BE3256 /* AnimationParameters.swift in Sources */,
+				85D4C52D274DFDAD00BE3256 /* Animation.swift in Sources */,
 				85E19B8E274DF59100F5D44D /* AppDelegate.swift in Sources */,
 				85E19B90274DF59100F5D44D /* SceneDelegate.swift in Sources */,
 			);
